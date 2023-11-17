@@ -1,5 +1,5 @@
 sbtPlugin := true
-organization := "com.github.platypii"
+organization := "com.github.promansew"
 name := "sbt-typescript"
 version := "5.2.2"
 
