@@ -1,7 +1,7 @@
 sbtPlugin := true
 organization := "com.github.platypii"
 name := "sbt-typescript"
-version := "5.2.2"
+version := "5.2.2-SNAPSHOT"
 
 // Scala needs to match sbt
 scalaVersion := "2.12.18"
